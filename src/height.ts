@@ -17,12 +17,12 @@ let statureGirls: HeightLmsRow[] | null = null;
 async function loadLengthData(sex: Sex): Promise<HeightLmsRow[]> {
   if (sex === 'male') {
     if (!lengthBoys) {
-      lengthBoys = (await import('./data/cdc-length-boys.json')).default as HeightLmsRow[];
+      lengthBoys = (await import('./data/cdc-length-boys.json', { with: { type: 'json' } })).default as HeightLmsRow[];
     }
     return lengthBoys;
   } else {
     if (!lengthGirls) {
-      lengthGirls = (await import('./data/cdc-length-girls.json')).default as HeightLmsRow[];
+      lengthGirls = (await import('./data/cdc-length-girls.json', { with: { type: 'json' } })).default as HeightLmsRow[];
     }
     return lengthGirls;
   }
@@ -31,12 +31,12 @@ async function loadLengthData(sex: Sex): Promise<HeightLmsRow[]> {
 async function loadStatureData(sex: Sex): Promise<HeightLmsRow[]> {
   if (sex === 'male') {
     if (!statureBoys) {
-      statureBoys = (await import('./data/cdc-stature-boys.json')).default as HeightLmsRow[];
+      statureBoys = (await import('./data/cdc-stature-boys.json', { with: { type: 'json' } })).default as HeightLmsRow[];
     }
     return statureBoys;
   } else {
     if (!statureGirls) {
-      statureGirls = (await import('./data/cdc-stature-girls.json')).default as HeightLmsRow[];
+      statureGirls = (await import('./data/cdc-stature-girls.json', { with: { type: 'json' } })).default as HeightLmsRow[];
     }
     return statureGirls;
   }

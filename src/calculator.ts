@@ -87,12 +87,12 @@ async function loadData(sourceId: string, sex: 'male' | 'female'): Promise<Gauss
     case 'aap2017':
       if (sex === 'male') {
         if (!aap2017Boys) {
-          aap2017Boys = (await import('./data/aap2017-boys.json')).default as GaussianRow[];
+          aap2017Boys = (await import('./data/aap2017-boys.json', { with: { type: 'json' } })).default as GaussianRow[];
         }
         return aap2017Boys;
       } else {
         if (!aap2017Girls) {
-          aap2017Girls = (await import('./data/aap2017-girls.json')).default as GaussianRow[];
+          aap2017Girls = (await import('./data/aap2017-girls.json', { with: { type: 'json' } })).default as GaussianRow[];
         }
         return aap2017Girls;
       }
@@ -100,12 +100,12 @@ async function loadData(sourceId: string, sex: 'male' | 'female'): Promise<Gauss
     case 'nhlbi':
       if (sex === 'male') {
         if (!nhlbiBoys) {
-          nhlbiBoys = (await import('./data/nhlbi-boys.json')).default as GaussianRow[];
+          nhlbiBoys = (await import('./data/nhlbi-boys.json', { with: { type: 'json' } })).default as GaussianRow[];
         }
         return nhlbiBoys;
       } else {
         if (!nhlbiGirls) {
-          nhlbiGirls = (await import('./data/nhlbi-girls.json')).default as GaussianRow[];
+          nhlbiGirls = (await import('./data/nhlbi-girls.json', { with: { type: 'json' } })).default as GaussianRow[];
         }
         return nhlbiGirls;
       }
@@ -113,12 +113,12 @@ async function loadData(sourceId: string, sex: 'male' | 'female'): Promise<Gauss
     case 'lo2013':
       if (sex === 'male') {
         if (!lo2013Boys) {
-          lo2013Boys = (await import('./data/lo2013-boys.json')).default as GaussianRow[];
+          lo2013Boys = (await import('./data/lo2013-boys.json', { with: { type: 'json' } })).default as GaussianRow[];
         }
         return lo2013Boys;
       } else {
         if (!lo2013Girls) {
-          lo2013Girls = (await import('./data/lo2013-girls.json')).default as GaussianRow[];
+          lo2013Girls = (await import('./data/lo2013-girls.json', { with: { type: 'json' } })).default as GaussianRow[];
         }
         return lo2013Girls;
       }
@@ -126,12 +126,12 @@ async function loadData(sourceId: string, sex: 'male' | 'female'): Promise<Gauss
     case 'gemelli1990':
       if (sex === 'male') {
         if (!gemelliBoys) {
-          gemelliBoys = (await import('./data/gemelli-boys.json')).default as GaussianRow[];
+          gemelliBoys = (await import('./data/gemelli-boys.json', { with: { type: 'json' } })).default as GaussianRow[];
         }
         return gemelliBoys;
       } else {
         if (!gemelliGirls) {
-          gemelliGirls = (await import('./data/gemelli-girls.json')).default as GaussianRow[];
+          gemelliGirls = (await import('./data/gemelli-girls.json', { with: { type: 'json' } })).default as GaussianRow[];
         }
         return gemelliGirls;
       }

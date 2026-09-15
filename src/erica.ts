@@ -27,7 +27,7 @@ interface EricaData {
 async function loadEricaData(sex: Sex): Promise<EricaData> {
   if (sex === 'male') {
     if (!ericaBoys) {
-      const raw = (await import('./data/erica-boys.json')).default;
+      const raw = (await import('./data/erica-boys.json', { with: { type: 'json' } })).default;
       ericaBoys = {
         systolic: raw.systolic as EricaCoefficients,
         diastolic: raw.diastolic as EricaCoefficients,
@@ -36,7 +36,7 @@ async function loadEricaData(sex: Sex): Promise<EricaData> {
     return ericaBoys;
   } else {
     if (!ericaGirls) {
-      const raw = (await import('./data/erica-girls.json')).default;
+      const raw = (await import('./data/erica-girls.json', { with: { type: 'json' } })).default;
       ericaGirls = {
         systolic: raw.systolic as EricaCoefficients,
         diastolic: raw.diastolic as EricaCoefficients,

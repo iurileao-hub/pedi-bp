@@ -1,6 +1,6 @@
 {
   "name": "@pedi-bp/core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "license": "MIT",
   "description": "Pediatric blood pressure percentile calculator — AAP 2017, NHLBI, ERICA (Brazilian), with classification",
@@ -29,7 +29,8 @@
     "build": "tsc -p tsconfig.build.json",
     "test": "vitest run",
     "verify:provenance": "node scripts/verify-cdc-provenance.mjs",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build && npm test && node scripts/smoke-node.mjs && npm run verify:provenance",
+    "test:node": "npm run build && node scripts/smoke-node.mjs"
   },
   "publishConfig": {
     "access": "public"
