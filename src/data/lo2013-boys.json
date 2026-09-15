@@ -1,0 +1,122 @@
+[
+  {
+    "age_months": 36.0,
+    "sbp_mean": 93.2,
+    "sbp_sd": 9.2,
+    "dbp_mean": 55.1,
+    "dbp_sd": 8.1,
+    "height_percentile": null
+  },
+  {
+    "age_months": 48.0,
+    "sbp_mean": 94.5,
+    "sbp_sd": 9.2,
+    "dbp_mean": 56.3,
+    "dbp_sd": 8.0,
+    "height_percentile": null
+  },
+  {
+    "age_months": 60.0,
+    "sbp_mean": 95.6,
+    "sbp_sd": 9.4,
+    "dbp_mean": 56.7,
+    "dbp_sd": 8.1,
+    "height_percentile": null
+  },
+  {
+    "age_months": 72.0,
+    "sbp_mean": 97.6,
+    "sbp_sd": 9.4,
+    "dbp_mean": 57.8,
+    "dbp_sd": 8.1,
+    "height_percentile": null
+  },
+  {
+    "age_months": 84.0,
+    "sbp_mean": 98.8,
+    "sbp_sd": 9.5,
+    "dbp_mean": 58.7,
+    "dbp_sd": 7.8,
+    "height_percentile": null
+  },
+  {
+    "age_months": 96.0,
+    "sbp_mean": 100.7,
+    "sbp_sd": 9.7,
+    "dbp_mean": 59.8,
+    "dbp_sd": 8.1,
+    "height_percentile": null
+  },
+  {
+    "age_months": 108.0,
+    "sbp_mean": 101.9,
+    "sbp_sd": 9.8,
+    "dbp_mean": 60.8,
+    "dbp_sd": 7.9,
+    "height_percentile": null
+  },
+  {
+    "age_months": 120.0,
+    "sbp_mean": 103.3,
+    "sbp_sd": 10.0,
+    "dbp_mean": 61.4,
+    "dbp_sd": 8.1,
+    "height_percentile": null
+  },
+  {
+    "age_months": 132.0,
+    "sbp_mean": 104.9,
+    "sbp_sd": 10.4,
+    "dbp_mean": 62.3,
+    "dbp_sd": 8.1,
+    "height_percentile": null
+  },
+  {
+    "age_months": 144.0,
+    "sbp_mean": 107.4,
+    "sbp_sd": 10.9,
+    "dbp_mean": 62.9,
+    "dbp_sd": 8.2,
+    "height_percentile": null
+  },
+  {
+    "age_months": 156.0,
+    "sbp_mean": 110.8,
+    "sbp_sd": 11.0,
+    "dbp_mean": 63.8,
+    "dbp_sd": 8.3,
+    "height_percentile": null
+  },
+  {
+    "age_months": 168.0,
+    "sbp_mean": 113.1,
+    "sbp_sd": 11.2,
+    "dbp_mean": 64.7,
+    "dbp_sd": 8.4,
+    "height_percentile": null
+  },
+  {
+    "age_months": 180.0,
+    "sbp_mean": 114.8,
+    "sbp_sd": 11.3,
+    "dbp_mean": 65.5,
+    "dbp_sd": 8.3,
+    "height_percentile": null
+  },
+  {
+    "age_months": 192.0,
+    "sbp_mean": 116.4,
+    "sbp_sd": 11.3,
+    "dbp_mean": 66.2,
+    "dbp_sd": 8.6,
+    "height_percentile": null
+  },
+  {
+    "age_months": 204.0,
+    "sbp_mean": 117.2,
+    "sbp_sd": 11.5,
+    "dbp_mean": 67.0,
+    "dbp_sd": 8.6,
+    "height_percentile": null
+  }
+]

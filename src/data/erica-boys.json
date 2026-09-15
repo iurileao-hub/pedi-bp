@@ -1,0 +1,35 @@
+{
+  "source": "ERICA Study (Estudo de Riscos Cardiovasculares em Adolescentes)",
+  "citation": "Jardim TV, Rosner B, Bloch KV, et al. Blood pressure reference values for Brazilian adolescents: data from the Study of Cardiovascular Risk in Adolescents (ERICA Study). J Pediatr (Rio J). 2020;96(2):168-176.",
+  "doi": "10.1016/j.jped.2018.09.003",
+  "description": "Polynomial regression coefficients for SBP and DBP in male Brazilian adolescents aged 12-17 years, from supplementary Table S1",
+  "methodology": "Polynomial regression with restricted cubic splines. BP = Intercept + b1*(Age-15) + b2*(Age-15)^2 + b3*(Age-15)^3 + b4*(Age-15)^4 + b5*Zht + b6*Zht^2 + b7*Zht^3 + b8*Zht^4",
+  "population": "Non-overweight Brazilian adolescents (n=73,399 total, ~74.5% non-overweight)",
+  "ageRange": { "min": 12, "max": 17, "unit": "years" },
+  "ageCentered": 15,
+  "heightInput": "Z-score (CDC 2000 reference)",
+  "systolic": {
+    "intercept": 113.265,
+    "age_minus_15": 3.63,
+    "age_minus_15_sq": -0.942,
+    "age_minus_15_cu": -0.046,
+    "age_minus_15_qu": 0.086,
+    "zht": 3.073,
+    "zht_sq": -0.026,
+    "zht_cu": -0.039,
+    "zht_qu": 0.006,
+    "residual_sd": 10.22
+  },
+  "diastolic": {
+    "intercept": 64.722,
+    "age_minus_15": 1.448,
+    "age_minus_15_sq": -0.099,
+    "age_minus_15_cu": -0.051,
+    "age_minus_15_qu": 0.008,
+    "zht": 1.206,
+    "zht_sq": -0.015,
+    "zht_cu": -0.017,
+    "zht_qu": 0.01,
+    "residual_sd": 7.81
+  }
+}

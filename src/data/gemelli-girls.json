@@ -1,0 +1,34 @@
+[
+  {
+    "age_months": 1.0,
+    "sbp_mean": 82.0,
+    "sbp_sd": 9.0,
+    "dbp_mean": 46.0,
+    "dbp_sd": 10.0,
+    "height_percentile": null
+  },
+  {
+    "age_months": 3.0,
+    "sbp_mean": 89.0,
+    "sbp_sd": 11.0,
+    "dbp_mean": 54.0,
+    "dbp_sd": 10.0,
+    "height_percentile": null
+  },
+  {
+    "age_months": 6.0,
+    "sbp_mean": 92.0,
+    "sbp_sd": 10.0,
+    "dbp_mean": 56.0,
+    "dbp_sd": 10.0,
+    "height_percentile": null
+  },
+  {
+    "age_months": 9.0,
+    "sbp_mean": 94.0,
+    "sbp_sd": 10.0,
+    "dbp_mean": 57.0,
+    "dbp_sd": 8.0,
+    "height_percentile": null
+  }
+]

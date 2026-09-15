@@ -1,0 +1,954 @@
+[
+  {
+    "age_months": 12,
+    "sbp_mean": 84.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 40.8634,
+    "dbp_sd": 10.7333,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 12,
+    "sbp_mean": 85.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 41.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 12,
+    "sbp_mean": 86.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 41.9968,
+    "dbp_sd": 10.9382,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 12,
+    "sbp_mean": 86.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 42.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 12,
+    "sbp_mean": 87.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 43.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 12,
+    "sbp_mean": 88.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 44.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 12,
+    "sbp_mean": 88.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 45.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 24,
+    "sbp_mean": 87.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 44.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 24,
+    "sbp_mean": 86.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 45.8339,
+    "dbp_sd": 10.08,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 24,
+    "sbp_mean": 87.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 46.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 24,
+    "sbp_mean": 89.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 47.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 24,
+    "sbp_mean": 90.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 48.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 24,
+    "sbp_mean": 91.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 49.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 24,
+    "sbp_mean": 91.1301,
+    "sbp_sd": 11.1432,
+    "dbp_mean": 50.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 36,
+    "sbp_mean": 87.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 47.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 36,
+    "sbp_mean": 89.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 47.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 36,
+    "sbp_mean": 89.1301,
+    "sbp_sd": 11.1432,
+    "dbp_mean": 48.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 36,
+    "sbp_mean": 89.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 49.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 36,
+    "sbp_mean": 90.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 50.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 36,
+    "sbp_mean": 91.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 52.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 36,
+    "sbp_mean": 93.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 52.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 48,
+    "sbp_mean": 88.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 49.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 48,
+    "sbp_mean": 89.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 50.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 48,
+    "sbp_mean": 90.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 50.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 48,
+    "sbp_mean": 92.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 52.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 48,
+    "sbp_mean": 93.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 53.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 48,
+    "sbp_mean": 94.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 55.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 48,
+    "sbp_mean": 93.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 54.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 60,
+    "sbp_mean": 89.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 51.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 60,
+    "sbp_mean": 90.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 51.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 60,
+    "sbp_mean": 92.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 52.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 60,
+    "sbp_mean": 93.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 54.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 60,
+    "sbp_mean": 94.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 55.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 60,
+    "sbp_mean": 95.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 56.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 60,
+    "sbp_mean": 96.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 57.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 72,
+    "sbp_mean": 91.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 54.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 72,
+    "sbp_mean": 92.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 53.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 72,
+    "sbp_mean": 93.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 54.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 72,
+    "sbp_mean": 94.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 56.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 72,
+    "sbp_mean": 96.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 57.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 72,
+    "sbp_mean": 97.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 58.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 72,
+    "sbp_mean": 97.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 59.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 84,
+    "sbp_mean": 92.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 54.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 84,
+    "sbp_mean": 92.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 54.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 84,
+    "sbp_mean": 93.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 55.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 84,
+    "sbp_mean": 95.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 57.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 84,
+    "sbp_mean": 97.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 58.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 84,
+    "sbp_mean": 98.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 59.1752,
+    "dbp_sd": 9.3885,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 84,
+    "sbp_mean": 99.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 60.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 96,
+    "sbp_mean": 93.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 56.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 96,
+    "sbp_mean": 93.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 56.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 96,
+    "sbp_mean": 94.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 57.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 96,
+    "sbp_mean": 97.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 59.1752,
+    "dbp_sd": 9.3885,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 96,
+    "sbp_mean": 97.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 60.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 96,
+    "sbp_mean": 98.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 61.1457,
+    "dbp_sd": 8.7353,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 96,
+    "sbp_mean": 99.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 61.1457,
+    "dbp_sd": 8.7353,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 108,
+    "sbp_mean": 94.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 57.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 108,
+    "sbp_mean": 94.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 58.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 108,
+    "sbp_mean": 96.9378,
+    "sbp_sd": 9.6318,
+    "dbp_mean": 59.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 108,
+    "sbp_mean": 98.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 60.1752,
+    "dbp_sd": 9.3885,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 108,
+    "sbp_mean": 98.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 60.1752,
+    "dbp_sd": 9.3885,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 108,
+    "sbp_mean": 99.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 61.1457,
+    "dbp_sd": 8.7353,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 108,
+    "sbp_mean": 100.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 61.1457,
+    "dbp_sd": 8.7353,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 120,
+    "sbp_mean": 95.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 58.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 120,
+    "sbp_mean": 96.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 59.2046,
+    "dbp_sd": 10.0417,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 120,
+    "sbp_mean": 98.0712,
+    "sbp_sd": 9.8368,
+    "dbp_mean": 59.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 120,
+    "sbp_mean": 98.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 60.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 120,
+    "sbp_mean": 100.9378,
+    "sbp_sd": 9.6318,
+    "dbp_mean": 61.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 120,
+    "sbp_mean": 101.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 61.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 120,
+    "sbp_mean": 102.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 62.0123,
+    "dbp_sd": 8.5303,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 132,
+    "sbp_mean": 97.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 60.2046,
+    "dbp_sd": 10.0417,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 132,
+    "sbp_mean": 98.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 60.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 132,
+    "sbp_mean": 100.9378,
+    "sbp_sd": 9.6318,
+    "dbp_mean": 60.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 132,
+    "sbp_mean": 101.9378,
+    "sbp_sd": 9.6318,
+    "dbp_mean": 61.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 132,
+    "sbp_mean": 103.9378,
+    "sbp_sd": 9.6318,
+    "dbp_mean": 62.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 132,
+    "sbp_mean": 104.8634,
+    "sbp_sd": 10.7333,
+    "dbp_mean": 63.1457,
+    "dbp_sd": 8.7353,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 132,
+    "sbp_mean": 105.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 64.1162,
+    "dbp_sd": 8.082,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 144,
+    "sbp_mean": 101.9378,
+    "sbp_sd": 9.6318,
+    "dbp_mean": 61.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 144,
+    "sbp_mean": 101.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 61.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 144,
+    "sbp_mean": 103.9378,
+    "sbp_sd": 9.6318,
+    "dbp_mean": 61.1007,
+    "dbp_sd": 10.49,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 144,
+    "sbp_mean": 104.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 62.0712,
+    "dbp_sd": 9.8368,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 144,
+    "sbp_mean": 106.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 64.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 144,
+    "sbp_mean": 108.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 65.0123,
+    "dbp_sd": 8.5303,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 144,
+    "sbp_mean": 107.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 65.0123,
+    "dbp_sd": 8.5303,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 156,
+    "sbp_mean": 103.8339,
+    "sbp_sd": 10.08,
+    "dbp_mean": 61.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 156,
+    "sbp_mean": 104.8339,
+    "sbp_sd": 10.08,
+    "dbp_mean": 61.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 156,
+    "sbp_mean": 105.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 62.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 156,
+    "sbp_mean": 107.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 64.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 156,
+    "sbp_mean": 107.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 64.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 156,
+    "sbp_mean": 108.1301,
+    "sbp_sd": 11.1432,
+    "dbp_mean": 64.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 156,
+    "sbp_mean": 108.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 65.775,
+    "dbp_sd": 8.7736,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 168,
+    "sbp_mean": 104.8634,
+    "sbp_sd": 10.7333,
+    "dbp_mean": 62.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 168,
+    "sbp_mean": 105.8339,
+    "sbp_sd": 10.08,
+    "dbp_mean": 62.9673,
+    "dbp_sd": 10.285,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 168,
+    "sbp_mean": 106.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 63.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 168,
+    "sbp_mean": 108.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 64.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 168,
+    "sbp_mean": 109.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 65.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 168,
+    "sbp_mean": 108.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 65.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 168,
+    "sbp_mean": 108.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 65.8044,
+    "dbp_sd": 9.4268,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 180,
+    "sbp_mean": 104.7594,
+    "sbp_sd": 11.1815,
+    "dbp_mean": 63.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 180,
+    "sbp_mean": 105.8634,
+    "sbp_sd": 10.7333,
+    "dbp_mean": 63.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 180,
+    "sbp_mean": 106.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 63.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 180,
+    "sbp_mean": 107.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 64.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 180,
+    "sbp_mean": 108.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 65.8044,
+    "dbp_sd": 9.4268,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 180,
+    "sbp_mean": 108.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 66.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 180,
+    "sbp_mean": 109.0262,
+    "sbp_sd": 11.5915,
+    "dbp_mean": 66.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 192,
+    "sbp_mean": 105.8634,
+    "sbp_sd": 10.7333,
+    "dbp_mean": 63.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 192,
+    "sbp_mean": 106.8634,
+    "sbp_sd": 10.7333,
+    "dbp_mean": 63.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 192,
+    "sbp_mean": 108.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 64.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 192,
+    "sbp_mean": 108.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 65.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 192,
+    "sbp_mean": 109.1301,
+    "sbp_sd": 11.1432,
+    "dbp_mean": 65.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 192,
+    "sbp_mean": 109.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 66.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 192,
+    "sbp_mean": 109.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 66.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 95.0
+  },
+  {
+    "age_months": 204,
+    "sbp_mean": 106.8634,
+    "sbp_sd": 10.7333,
+    "dbp_mean": 63.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 5.0
+  },
+  {
+    "age_months": 204,
+    "sbp_mean": 107.9673,
+    "sbp_sd": 10.285,
+    "dbp_mean": 63.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 10.0
+  },
+  {
+    "age_months": 204,
+    "sbp_mean": 109.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 65.0418,
+    "dbp_sd": 9.1835,
+    "height_percentile": 25.0
+  },
+  {
+    "age_months": 204,
+    "sbp_mean": 110.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 65.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 50.0
+  },
+  {
+    "age_months": 204,
+    "sbp_mean": 109.9968,
+    "sbp_sd": 10.9382,
+    "dbp_mean": 65.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 75.0
+  },
+  {
+    "age_months": 204,
+    "sbp_mean": 110.1301,
+    "sbp_sd": 11.1432,
+    "dbp_mean": 65.9378,
+    "dbp_sd": 9.6318,
+    "height_percentile": 90.0
+  },
+  {
+    "age_months": 204,
+    "sbp_mean": 111.1007,
+    "sbp_sd": 10.49,
+    "dbp_mean": 66.9084,
+    "dbp_sd": 8.9786,
+    "height_percentile": 95.0
+  }
+]

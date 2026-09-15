@@ -1,0 +1,57 @@
+{
+  "name": "@pedi-bp/core",
+  "version": "0.1.1",
+  "type": "module",
+  "license": "MIT",
+  "description": "Pediatric blood pressure percentile calculator — AAP 2017, NHLBI, ERICA (Brazilian), with classification",
+  "author": "Iuri Leão",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iurileao-hub/pedi-bp.git"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "src",
+    "!src/__tests__",
+    "LICENSE",
+    "NOTICE.md",
+    "research"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "test": "vitest run",
+    "verify:provenance": "node scripts/verify-cdc-provenance.mjs",
+    "prepublishOnly": "npm run build"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "blood-pressure",
+    "pediatric",
+    "percentile",
+    "hypertension",
+    "aap",
+    "erica",
+    "nhlbi",
+    "child-health",
+    "puericultura"
+  ],
+  "homepage": "https://github.com/iurileao-hub/pedi-bp#readme",
+  "bugs": {
+    "url": "https://github.com/iurileao-hub/pedi-bp/issues"
+  },
+  "devDependencies": {
+    "@types/node": "20.16.11",
+    "typescript": "^5.6.3",
+    "vitest": "^4.0.16"
+  }
+}
